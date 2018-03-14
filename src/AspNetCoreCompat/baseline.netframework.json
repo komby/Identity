@@ -1,5 +1,5 @@
 {
-  "AssemblyIdentity": "Microsoft.AspNet.Identity.AspNetCoreCompat, Version=0.1.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60",
+  "AssemblyIdentity": "Microsoft.AspNet.Identity.AspNetCoreCompat, Version=0.3.2.0, Culture=neutral, PublicKeyToken=adb9793829ddae60",
   "Types": [
     {
       "Name": "Microsoft.AspNet.Identity.CoreCompat.IdentityDbContext<T0>",
@@ -883,6 +883,5 @@
       ],
       "GenericParameters": []
     }
-  ],
-  "SourceFilters": []
+  ]
 }
